@@ -1,0 +1,14 @@
+package com.ayungavis.cashierspring.rest;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+@RequestMapping("/menu")
+public class MenuController {
+
+	@RequestMapping("/hello")
+	public String hello() {
+		return "Hello, world!";
+	}
+}
