@@ -1,0 +1,135 @@
+repo_name: ayungavis/spring-cashier-api
+report_id: 2e3b5cc2a6a64e36e54ea90683c90275
+repo_type: Public
+timestamp: '2023-11-24T02:03:17+00:00'
+requested_by: ayungavis
+provider: github
+branch: master
+detected_tools_count: 11
+tools:
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  version: '1.8'
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: pom.xml
+  detection_source: pom.xml
+  last_updated_by: ayungavis
+  last_updated_on: 2019-06-22 11:54:09.000000000 Z
+- name: Spring Framework
+  description: An application framework and inversion of control container for the
+    Java platform
+  website_url: https://spring.io/projects/spring-framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
+  detection_source: pom.xml
+  last_updated_by: ayungavis
+  last_updated_on: 2019-06-23 10:01:47.000000000 Z
+- name: MySQL
+  description: The world's most popular open source database
+  website_url: http://www.mysql.com
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source: pom.xml
+  last_updated_by: ayungavis
+  last_updated_on: 2019-06-22 11:54:09.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: Apache Camel
+  description: A versatile open source integration framework
+  website_url: https://camel.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source: src/main/resources/application.properties
+- name: mysql:mysql-connector-java
+  description: MySQL JDBC Type 4 driver
+  license: GPL-3.0-only
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: pom.xml
+  last_updated_by: ayungavis
+  last_updated_on: 2019-06-23 10:01:47.000000000 Z
+- name: org.springframework.boot:spring-boot-devtools
+  description: Spring Boot Developer Tools
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: pom.xml
+  last_updated_by: ayungavis
+  last_updated_on: 2019-06-23 10:01:47.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-actuator
+  description: Starter for using Spring Boot's Actuator which provides production
+    ready features to help you monitor and manage your application
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: pom.xml
+  last_updated_by: ayungavis
+  last_updated_on: 2019-06-23 10:01:47.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-data-jpa
+  description: Starter for using Spring Data JPA with Hibernate
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: pom.xml
+  last_updated_by: ayungavis
+  last_updated_on: 2019-06-23 10:01:47.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-test
+  description: Starter for testing Spring Boot applications with libraries including
+    JUnit
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: pom.xml
+  last_updated_by: ayungavis
+  last_updated_on: 2019-06-23 10:01:47.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-web
+  description: Starter for building web, including RESTful, applications using Spring
+    MVC
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: pom.xml
+  last_updated_by: ayungavis
+  last_updated_on: 2019-06-23 10:01:47.000000000 Z
