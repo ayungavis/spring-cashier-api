@@ -1,7 +1,7 @@
 repo_name: ayungavis/spring-cashier-api
-report_id: 2e3b5cc2a6a64e36e54ea90683c90275
+report_id: 81d3cf30588b4c0ed459d389368e1e54
 repo_type: Public
-timestamp: '2023-11-24T02:03:17+00:00'
+timestamp: '2023-12-14T13:20:28+00:00'
 requested_by: ayungavis
 provider: github
 branch: master
@@ -17,8 +17,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
-  detection_source_url: pom.xml
-  detection_source: pom.xml
+  detection_source_url: https://github.com/ayungavis/spring-cashier-api/blob/master/pom.xml
+  detection_source: Repo Metadata
   last_updated_by: ayungavis
   last_updated_on: 2019-06-22 11:54:09.000000000 Z
 - name: Spring Framework
