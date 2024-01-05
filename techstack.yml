@@ -1,7 +1,8 @@
 repo_name: ayungavis/spring-cashier-api
-report_id: 81d3cf30588b4c0ed459d389368e1e54
+report_id: 2e3b5cc2a6a64e36e54ea90683c90275
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T13:20:28+00:00'
+timestamp: '2024-01-05T08:33:39+00:00'
 requested_by: ayungavis
 provider: github
 branch: master
@@ -31,6 +32,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
+  detection_source_url: https://github.com/ayungavis/spring-cashier-api/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: ayungavis
   last_updated_on: 2019-06-23 10:01:47.000000000 Z
@@ -42,6 +44,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: https://github.com/ayungavis/spring-cashier-api/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: ayungavis
   last_updated_on: 2019-06-22 11:54:09.000000000 Z
@@ -53,6 +56,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ayungavis/spring-cashier-api
   detection_source: Repo Metadata
 - name: Apache Camel
   description: A versatile open source integration framework
@@ -63,6 +67,7 @@ tools:
   category: Application Hosting
   sub_category: Platform as a Service
   image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source_url: https://github.com/ayungavis/spring-cashier-api/blob/master/src/main/resources/application.properties
   detection_source: src/main/resources/application.properties
 - name: mysql:mysql-connector-java
   description: MySQL JDBC Type 4 driver
@@ -72,6 +77,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ayungavis/spring-cashier-api/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: ayungavis
   last_updated_on: 2019-06-23 10:01:47.000000000 Z
@@ -83,6 +89,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ayungavis/spring-cashier-api/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: ayungavis
   last_updated_on: 2019-06-23 10:01:47.000000000 Z
@@ -95,6 +102,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ayungavis/spring-cashier-api/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: ayungavis
   last_updated_on: 2019-06-23 10:01:47.000000000 Z
@@ -106,6 +114,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ayungavis/spring-cashier-api/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: ayungavis
   last_updated_on: 2019-06-23 10:01:47.000000000 Z
@@ -118,6 +127,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ayungavis/spring-cashier-api/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: ayungavis
   last_updated_on: 2019-06-23 10:01:47.000000000 Z
@@ -130,6 +140,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ayungavis/spring-cashier-api/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: ayungavis
   last_updated_on: 2019-06-23 10:01:47.000000000 Z
